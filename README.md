@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently working on angular,php and flutter<br>I am learning python<br>I have experience in php and java
+I am currently working on angular,python, nodejs and flutter<br>I have experience in php and java
 
 
 ## 🌐 Socials:
